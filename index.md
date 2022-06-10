@@ -4,3 +4,5 @@
 
 ###### this is `<h6>` header
 ####### what is this?
+
+![This is an image](https://octodex.github.com/images/yaktocat.png)
